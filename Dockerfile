@@ -1,2 +1,2 @@
-FROM Federo 
+FROM FEDERO 
 RUN date
