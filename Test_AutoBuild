@@ -1,0 +1,3 @@
+FROM FEDARO
+RUN TIME
+RUN echo "time changed"
